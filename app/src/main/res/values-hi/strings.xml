@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Java</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="quantity">मात्रा</string>
+    <string name="order_sum">आदेश सारांश</string>
+    <string name="total">कुल</string>
+    <string name="name">नाम</string>
+</resources>
